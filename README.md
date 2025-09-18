@@ -40,3 +40,5 @@ DormShare는 이런 문제를 해결하기 위해 **커뮤니티 기반 식료�
 편리성 향상: 유통기한 임박 식품을 쉽게 확인하고 교환, 나눔 가능.
 
 환경적 가치: 음식물 쓰레기 감소 → 지속가능한 생활 습관 형성.
+
+file:///C:/Users/xesth/OneDrive/%EB%AC%B8%EC%84%9C/GitHub/code-for-all/%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80/index.html
